@@ -1,0 +1,14 @@
+C:\Users\Andik\Desktop\Kuliahan\Semester 2\Pemrograman Visual\UAS\UAS\UAS\bin\Debug\net8.0\UAS.deps.json
+C:\Users\Andik\Desktop\Kuliahan\Semester 2\Pemrograman Visual\UAS\UAS\UAS\bin\Debug\net8.0\UAS.dll
+C:\Users\Andik\Desktop\Kuliahan\Semester 2\Pemrograman Visual\UAS\UAS\UAS\bin\Debug\net8.0\UAS.pdb
+C:\Users\Andik\Desktop\Kuliahan\Semester 2\Pemrograman Visual\UAS\UAS\UAS\obj\Debug\net8.0\UAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andik\Desktop\Kuliahan\Semester 2\Pemrograman Visual\UAS\UAS\UAS\obj\Debug\net8.0\UAS.AssemblyInfoInputs.cache
+C:\Users\Andik\Desktop\Kuliahan\Semester 2\Pemrograman Visual\UAS\UAS\UAS\obj\Debug\net8.0\UAS.AssemblyInfo.vb
+C:\Users\Andik\Desktop\Kuliahan\Semester 2\Pemrograman Visual\UAS\UAS\UAS\obj\Debug\net8.0\UAS.vbproj.CoreCompileInputs.cache
+C:\Users\Andik\Desktop\Kuliahan\Semester 2\Pemrograman Visual\UAS\UAS\UAS\obj\Debug\net8.0\UAS.dll
+C:\Users\Andik\Desktop\Kuliahan\Semester 2\Pemrograman Visual\UAS\UAS\UAS\obj\Debug\net8.0\refint\UAS.dll
+C:\Users\Andik\Desktop\Kuliahan\Semester 2\Pemrograman Visual\UAS\UAS\UAS\obj\Debug\net8.0\UAS.pdb
+C:\Users\Andik\Desktop\Kuliahan\Semester 2\Pemrograman Visual\UAS\UAS\UAS\obj\Debug\net8.0\ref\UAS.dll
+C:\Users\Andik\Desktop\Kuliahan\Semester 2\Pemrograman Visual\UAS\UAS\UAS\bin\Debug\net8.0\UAS.exe
+C:\Users\Andik\Desktop\Kuliahan\Semester 2\Pemrograman Visual\UAS\UAS\UAS\bin\Debug\net8.0\UAS.runtimeconfig.json
+C:\Users\Andik\Desktop\Kuliahan\Semester 2\Pemrograman Visual\UAS\UAS\UAS\obj\Debug\net8.0\UAS.genruntimeconfig.cache
