@@ -1,0 +1,10 @@
+# Mengabaikan file build dan konfigurasi Visual Studio
+bin/
+obj/
+.vscode/
+*.user
+*.suo
+*.cache
+*.exe
+*.dll
+*.pdb
